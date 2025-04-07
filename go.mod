@@ -12,7 +12,7 @@ require (
 	github.com/stretchr/testify v1.4.0
 	github.com/swaggo/echo-swagger v1.0.0
 	github.com/swaggo/swag v1.6.5
-	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79
+	golang.org/x/crypto v0.35.0
 	gopkg.in/go-playground/validator.v9 v9.28.0
 )
 
@@ -38,9 +38,9 @@ require (
 	github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.1.0 // indirect
-	golang.org/x/net v0.0.0-20200501053045-e0ff5e5a1de5 // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
-	golang.org/x/text v0.3.2 // indirect
-	golang.org/x/tools v0.0.0-20200502202811-ed308ab3e770 // indirect
+	golang.org/x/net v0.36.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
