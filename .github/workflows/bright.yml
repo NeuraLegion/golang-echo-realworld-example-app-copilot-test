@@ -63,6 +63,10 @@ jobs:
              --test .brightsec/tests/*.test.ts \
              --test-concurrency=4
 
+    - name: Logs
+      run: |
+        docker logs echo-realworld-app
+
     - name: Stop application
       if: always()
       run: |
